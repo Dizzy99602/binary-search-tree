@@ -1,0 +1,19 @@
+{
+  "name": "balanced-bst",
+  "version": "1.0.0",
+  "description": "A project that implements a balanced binary search tree with functionalities such as insertion, deletion, traversal, and rebalancing.",
+  "main": "src/bst.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "tree",
+    "balanced",
+    "data-structure"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
